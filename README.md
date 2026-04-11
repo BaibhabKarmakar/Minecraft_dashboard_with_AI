@@ -45,7 +45,7 @@ Connect a free **Groq API key** to unlock four AI-powered tabs:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/BaibhabKarmakar/minecraft-wrapped.git
+git clone [https://github.com/BaibhabKarmakar/Minecraft_dashboard_with_AI].git
 cd minecraft-wrapped
 ```
 
